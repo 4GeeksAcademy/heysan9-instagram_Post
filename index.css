@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family: "Roboto";
+}
+.post{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    background-color: white;    
+}
+.post-header {
+    display: flex;
+    align-items: center;
+}
+.icon-1{
+    font-size: 50px;
+    justify-items: flex-start;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.titles {
+    margin-right: auto;
+    display: block;
+    
+}
+.icon-2{
+    font-size: 40px;
+    padding-right: 10px;
+}
+.post-icons{
+    display: flex;
+    font-size: 30px;
+    padding: 10px;
+
+}
+.icon-4 {
+    padding-left: 5px;
+}
+.icon-5 {
+    margin-right: auto;
+    padding-left: 5px;
+}
+.post-body{
+    padding: 10px 15px 20px;
+    text-align: justify;
+}
+    
